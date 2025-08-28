@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: prototype.interface.blank-prototype-kit
-  title: blank-prototype-kit
+  name: test.prototype.2
+  title: Test-Prototype
   description: |
-    TODO: add description for blank-prototype-kit.
+    A second prototype to use for testing things.
 
   annotations:
     gitlab.com/project-slug: dwp/user-centred-design/blank-prototype-kit
